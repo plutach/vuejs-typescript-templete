@@ -1,4 +1,4 @@
-# green-card-web
+# vuejs-typescript-templete
 
 ## Project setup
 ```
